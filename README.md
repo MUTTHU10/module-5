@@ -5,7 +5,7 @@ write a C program to area of a circle and perimeter of the circle for the radius
 ## ALGORITHM
 1.	Start the program.
 2.	Read the numbers.
-3.	Calculate the area of circle using the formula area=3.14*r*r and perimeter=2*3.14*r
+3.	Calculate the area of circle using the formula area=(3.14)*(r)*(r) and perimeter=(2)*(3.14)*(r)
 4.	Display the result.
 5.	Stop the program.
 

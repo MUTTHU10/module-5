@@ -1,6 +1,6 @@
 # EX-26-AREA-AND-CIRCLE-USING- POINTER
 ## AIM
-write a C program to area of a circle and perimeter of the circle for the radius 100 using pointer.
+write a C program to find area of a circle and perimeter of the circle for the radius 100 using pointer.
 
 ## ALGORITHM
 1.	Start the program.

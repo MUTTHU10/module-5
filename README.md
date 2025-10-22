@@ -37,12 +37,12 @@ Thus the program to find area and perimeter of circle using pointer has been exe
 
 # EX-27-DYNAMIC-MEMORY-ALLOCATION
 ## AIM
-Write a C program to add value 20.21,32.67 to list which already have 12.33,67.44,89.55  in that  using realloc() and print that value.
+Write a C program to add value 20.21,32.67 to list which already have 12.33,67.44,89.55  in that  using malloc() and print that value.
 
 ## ALGORITHM
 1.	Start the program.
 2.	Read a float variable.
-3.	Allocate memory using calloc().
+3.	Allocate memory using malloc().
 4.	Display the float values.
 5.	Stop the program.
 
@@ -79,7 +79,7 @@ int main()
 
 
 ## RESULT
-Thus the program to add value 20.21,32.67 to list which already have 12.33,67.44,89.55  in that  using realloc() has been executed successfully.
+Thus the program to add value 20.21,32.67 to list which already have 12.33,67.44,89.55  in that  using malloc() has been executed successfully.
 
 
 # EX-28-STUDENT-INFORMATION-USING-STRUCTURE
